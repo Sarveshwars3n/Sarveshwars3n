@@ -23,7 +23,8 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sarveshwar-s-90a798293)  
-[![Email](https://img.shields.io/badge/Gmail-sathiyasri0027@gmail.com-red?logo=gmail&logoColor=white)](mailto:s3neshwars4n@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-s3neshwars4n@gmail.com-red?logo=gmail&logoColor=white)](mailto:s3neshwars4n@gmail.com)
+)
 
 ---
 
